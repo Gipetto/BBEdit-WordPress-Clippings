@@ -23,3 +23,12 @@ Copy the WordPress.php folder in to your `~/Library/Application Support/BBEdit/C
 ## Bugs and Suggestions
 
 Should be submitted to: http://github.com/Gipetto/BBEdit-WordPress-Clippings/issues
+
+## Licence & Disclaimer
+
+Released under the GPL license
+http://www.opensource.org/licenses/gpl-license.php
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
