@@ -1,0 +1,2 @@
+#indent#
+#selstart#copy#selend#(#placeholderstart#string source#placeholderend#, #placeholderstart#string destination#placeholderend#, #placeholderstart#bool overwrite#placeholderend#)#placeholderstart#;#placeholderend#

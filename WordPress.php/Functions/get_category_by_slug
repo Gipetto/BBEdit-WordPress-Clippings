@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_category_by_slug#selend#(#placeholderstart#string slug#placeholderend#)#placeholderstart#;#placeholderend#

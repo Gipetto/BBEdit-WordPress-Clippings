@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_category_parents#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#bool link#placeholderend#, #placeholderstart#string separator#placeholderend#, #placeholderstart#bool nicename#placeholderend#, #placeholderstart#string visited#placeholderend#)#placeholderstart#;#placeholderend#

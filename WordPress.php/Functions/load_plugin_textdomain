@@ -1,0 +1,2 @@
+#indent#
+#selstart#load_plugin_textdomain#selend#(#placeholderstart#string domain#placeholderend#, #placeholderstart#bool abs_rel_path#placeholderend#, #placeholderstart#bool plugin_rel_path#placeholderend#)#placeholderstart#;#placeholderend#

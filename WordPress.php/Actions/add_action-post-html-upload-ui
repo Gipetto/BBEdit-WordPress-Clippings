@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_action#selend#('post-html-upload-ui','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,1)#placeholderstart#;#placeholderend#

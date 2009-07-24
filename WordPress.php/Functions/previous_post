@@ -1,0 +1,2 @@
+#indent#
+#selstart#previous_post#selend#(#placeholderstart#string format#placeholderend#, #placeholderstart#string previous#placeholderend#, #placeholderstart#string title#placeholderend#, #placeholderstart#string in_same_cat#placeholderend#, #placeholderstart#int limitprev#placeholderend#, #placeholderstart#string excluded_categories#placeholderend#)#placeholderstart#;#placeholderend#

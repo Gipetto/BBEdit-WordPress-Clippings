@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_specialchars#selend#(#placeholderstart#string string#placeholderend#, #placeholderstart#string quote_style#placeholderend#, #placeholderstart#bool charset#placeholderend#, #placeholderstart#bool double_encode#placeholderend#)#placeholderstart#;#placeholderend#

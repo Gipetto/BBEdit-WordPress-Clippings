@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_new_user_notification#selend#(#placeholderstart#int user_id#placeholderend#, #placeholderstart#string plaintext_pass#placeholderend#)#placeholderstart#;#placeholderend#

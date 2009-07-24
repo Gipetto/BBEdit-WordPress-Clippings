@@ -1,0 +1,2 @@
+#indent#
+#selstart#user_can_edit_user#selend#(#placeholderstart#int user_id#placeholderend#, #placeholderstart#string other_user#placeholderend#)#placeholderstart#;#placeholderend#

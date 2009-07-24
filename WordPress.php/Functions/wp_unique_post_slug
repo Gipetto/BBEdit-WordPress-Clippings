@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_unique_post_slug#selend#(#placeholderstart#string slug#placeholderend#, #placeholderstart#string post_ID#placeholderend#, #placeholderstart#string post_status#placeholderend#, #placeholderstart#string post_type#placeholderend#, #placeholderstart#string post_parent#placeholderend#)#placeholderstart#;#placeholderend#

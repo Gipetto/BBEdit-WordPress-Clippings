@@ -1,0 +1,2 @@
+#indent#
+#selstart#glob_regexp#selend#(#placeholderstart#string pattern,$probe#placeholderend#)#placeholderstart#;#placeholderend#

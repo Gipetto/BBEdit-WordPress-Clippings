@@ -1,0 +1,2 @@
+#indent#
+#selstart#update_user_option#selend#(#placeholderstart#int user_id#placeholderend#, #placeholderstart#string option_name#placeholderend#, #placeholderstart#string newvalue#placeholderend#, #placeholderstart#bool global#placeholderend#)#placeholderstart#;#placeholderend#

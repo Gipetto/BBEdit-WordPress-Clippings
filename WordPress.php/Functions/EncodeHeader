@@ -1,0 +1,2 @@
+#indent#
+#selstart#EncodeHeader#selend#(#placeholderstart#string str#placeholderend#, #placeholderstart#string position#placeholderend#)#placeholderstart#;#placeholderend#

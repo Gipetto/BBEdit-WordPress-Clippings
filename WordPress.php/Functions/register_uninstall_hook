@@ -1,0 +1,2 @@
+#indent#
+#selstart#register_uninstall_hook#selend#(#placeholderstart#string file#placeholderend#, #placeholderstart#string callback#placeholderend#)#placeholderstart#;#placeholderend#

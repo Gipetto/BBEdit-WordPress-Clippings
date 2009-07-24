@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_avatar#selend#(#placeholderstart#string id_or_email#placeholderend#, #placeholderstart#int size#placeholderend#, #placeholderstart#string default#placeholderend#, #placeholderstart#bool alt#placeholderend#)#placeholderstart#;#placeholderend#

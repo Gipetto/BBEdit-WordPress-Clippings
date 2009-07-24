@@ -1,0 +1,2 @@
+#indent#
+#selstart#AddStringAttachment#selend#(#placeholderstart#string string#placeholderend#, #placeholderstart#string filename#placeholderend#, #placeholderstart#int encoding#placeholderend#, #placeholderstart#string type#placeholderend#)#placeholderstart#;#placeholderend#

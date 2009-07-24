@@ -1,0 +1,2 @@
+#indent#
+#selstart#addCallback#selend#(#placeholderstart#string method#placeholderend#, #placeholderstart#string callback#placeholderend#, #placeholderstart#array args#placeholderend#, #placeholderstart#string help#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#error_handler#selend#(#placeholderstart#string log_level#placeholderend#, #placeholderstart#string log_text#placeholderend#, #placeholderstart#string error_file#placeholderend#, #placeholderstart#string error_line#placeholderend#)#placeholderstart#;#placeholderend#

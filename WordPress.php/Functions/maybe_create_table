@@ -1,0 +1,2 @@
+#indent#
+#selstart#maybe_create_table#selend#(#placeholderstart#string table_name#placeholderend#, #placeholderstart#string create_ddl#placeholderend#)#placeholderstart#;#placeholderend#

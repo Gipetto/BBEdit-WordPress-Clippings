@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_settings_section#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string title#placeholderend#, #placeholderstart#string callback#placeholderend#, #placeholderstart#string page#placeholderend#)#placeholderstart#;#placeholderend#

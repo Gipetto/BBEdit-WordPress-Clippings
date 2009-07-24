@@ -1,0 +1,2 @@
+#indent#
+#selstart#user_can_create_draft#selend#(#placeholderstart#int user_id#placeholderend#, #placeholderstart#int blog_id#placeholderend#, #placeholderstart#int category_id#placeholderend#)#placeholderstart#;#placeholderend#

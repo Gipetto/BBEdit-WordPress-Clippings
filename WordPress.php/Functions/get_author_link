@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_author_link#selend#(#placeholderstart#bool echo#placeholderend#, #placeholderstart#int author_id#placeholderend#, #placeholderstart#string author_nicename#placeholderend#)#placeholderstart#;#placeholderend#

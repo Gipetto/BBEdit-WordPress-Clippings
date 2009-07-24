@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_get_post_terms#selend#(#placeholderstart#int post_id#placeholderend#, #placeholderstart#string taxonomy#placeholderend#, #placeholderstart#array args#placeholderend#)#placeholderstart#;#placeholderend#

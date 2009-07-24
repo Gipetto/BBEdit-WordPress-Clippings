@@ -1,0 +1,2 @@
+#indent#
+#selstart#fgets#selend#(#placeholderstart#string fp#placeholderend#, #placeholderstart#int len#placeholderend#)#placeholderstart#;#placeholderend#

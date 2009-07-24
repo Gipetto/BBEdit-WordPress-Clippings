@@ -1,0 +1,2 @@
+#indent#
+#selstart#PushError#selend#(#placeholderstart#bool fctname,$msg,$desc#placeholderend#)#placeholderstart#;#placeholderend#

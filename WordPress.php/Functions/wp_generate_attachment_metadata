@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_generate_attachment_metadata#selend#(#placeholderstart#int attachment_id#placeholderend#, #placeholderstart#string file#placeholderend#)#placeholderstart#;#placeholderend#

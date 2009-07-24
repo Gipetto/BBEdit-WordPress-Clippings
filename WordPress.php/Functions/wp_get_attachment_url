@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_get_attachment_url#selend#(#placeholderstart#int post_id#placeholderend#)#placeholderstart#;#placeholderend#

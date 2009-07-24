@@ -1,0 +1,2 @@
+#indent#
+#selstart#sanitize_user#selend#(#placeholderstart#string username#placeholderend#, #placeholderstart#bool strict#placeholderend#)#placeholderstart#;#placeholderend#

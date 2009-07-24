@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_permastruct#selend#(#placeholderstart#string name#placeholderend#, #placeholderstart#string struct#placeholderend#, #placeholderstart#bool with_front#placeholderend#)#placeholderstart#;#placeholderend#

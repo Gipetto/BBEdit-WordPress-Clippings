@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_throttle_comment_flood#selend#(#placeholderstart#string block#placeholderend#, #placeholderstart#string time_lastcomment#placeholderend#, #placeholderstart#string time_newcomment#placeholderend#)#placeholderstart#;#placeholderend#

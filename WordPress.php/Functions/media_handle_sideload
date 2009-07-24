@@ -1,0 +1,2 @@
+#indent#
+#selstart#media_handle_sideload#selend#(#placeholderstart#array file_array#placeholderend#, #placeholderstart#int post_id#placeholderend#, #placeholderstart#string desc#placeholderend#, #placeholderstart#string post_data#placeholderend#)#placeholderstart#;#placeholderend#

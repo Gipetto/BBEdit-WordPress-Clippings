@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_media_item#selend#(#placeholderstart#int attachment_id#placeholderend#, #placeholderstart#array args#placeholderend#)#placeholderstart#;#placeholderend#

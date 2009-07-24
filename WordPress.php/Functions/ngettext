@@ -1,0 +1,2 @@
+#indent#
+#selstart#ngettext#selend#(#placeholderstart#string single#placeholderend#, #placeholderstart#string plural#placeholderend#, #placeholderstart#string number#placeholderend#)#placeholderstart#;#placeholderend#

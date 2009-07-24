@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_feed#selend#(#placeholderstart#int page#placeholderend#, #placeholderstart#string post_type#placeholderend#)#placeholderstart#;#placeholderend#

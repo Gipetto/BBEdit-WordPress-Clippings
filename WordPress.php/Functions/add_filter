@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_filter#selend#(#placeholderstart#string tag#placeholderend#, #placeholderstart#string function_to_add#placeholderend#, #placeholderstart#int priority#placeholderend#, #placeholderstart#int accepted_args#placeholderend#)#placeholderstart#;#placeholderend#

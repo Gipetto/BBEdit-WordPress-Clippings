@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_filter#selend#('feed_link','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,2)#placeholderstart#;#placeholderend#

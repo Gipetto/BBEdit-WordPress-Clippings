@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_get_single_post#selend#(#placeholderstart#int postid#placeholderend#, #placeholderstart#string mode#placeholderend#)#placeholderstart#;#placeholderend#

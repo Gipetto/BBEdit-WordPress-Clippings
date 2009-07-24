@@ -1,0 +1,2 @@
+#indent#
+#selstart#weblog_ping#selend#(#placeholderstart#string server#placeholderend#, #placeholderstart#string path#placeholderend#)#placeholderstart#;#placeholderend#

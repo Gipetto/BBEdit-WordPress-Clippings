@@ -1,0 +1,2 @@
+#indent#
+#selstart#checked#selend#(#placeholderstart#string checked#placeholderend#, #placeholderstart#bool current#placeholderend#, #placeholderstart#bool echo#placeholderend#)#placeholderstart#;#placeholderend#

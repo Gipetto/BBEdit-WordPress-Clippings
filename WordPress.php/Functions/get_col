@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_col#selend#(#placeholderstart#string query#placeholderend#, #placeholderstart#int x#placeholderend#)#placeholderstart#;#placeholderend#

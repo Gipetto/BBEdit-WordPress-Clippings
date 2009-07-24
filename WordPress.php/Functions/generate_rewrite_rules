@@ -1,0 +1,2 @@
+#indent#
+#selstart#generate_rewrite_rules#selend#(#placeholderstart#string permalink_structure#placeholderend#, #placeholderstart#string ep_mask#placeholderend#, #placeholderstart#bool paged#placeholderend#, #placeholderstart#bool feed#placeholderend#, #placeholderstart#bool forcomments#placeholderend#, #placeholderstart#bool walk_dirs#placeholderend#, #placeholderstart#bool endpoints#placeholderend#)#placeholderstart#;#placeholderend#

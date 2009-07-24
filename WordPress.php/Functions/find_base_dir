@@ -1,0 +1,2 @@
+#indent#
+#selstart#find_base_dir#selend#(#placeholderstart#string base#placeholderend#, #placeholderstart#bool echo#placeholderend#)#placeholderstart#;#placeholderend#

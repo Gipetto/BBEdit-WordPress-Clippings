@@ -1,0 +1,2 @@
+#indent#
+#selstart#fput#selend#(#placeholderstart#string remotefile#placeholderend#, #placeholderstart#string fp#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#is_active_widget#selend#(#placeholderstart#bool callback#placeholderend#, #placeholderstart#bool widget_id#placeholderend#, #placeholderstart#bool id_base#placeholderend#, #placeholderstart#bool skip_inactive#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_get_attachment_link#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string size#placeholderend#, #placeholderstart#bool permalink#placeholderend#, #placeholderstart#bool icon#placeholderend#, #placeholderstart#bool text#placeholderend#)#placeholderstart#;#placeholderend#

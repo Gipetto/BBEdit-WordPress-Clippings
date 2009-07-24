@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_col_info#selend#(#placeholderstart#string info_type#placeholderend#, #placeholderstart#int col_offset#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#comment_class#selend#(#placeholderstart#string class#placeholderend#, #placeholderstart#int comment_id#placeholderend#, #placeholderstart#int post_id#placeholderend#, #placeholderstart#bool echo#placeholderend#)#placeholderstart#;#placeholderend#

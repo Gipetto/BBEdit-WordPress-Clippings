@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_author_posts_url#selend#(#placeholderstart#int author_id#placeholderend#, #placeholderstart#string author_nicename#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_user_option#selend#(#placeholderstart#string option#placeholderend#, #placeholderstart#int user#placeholderend#, #placeholderstart#bool check_blog_options#placeholderend#)#placeholderstart#;#placeholderend#

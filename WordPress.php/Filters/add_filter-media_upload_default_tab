@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_filter#selend#('media_upload_default_tab','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

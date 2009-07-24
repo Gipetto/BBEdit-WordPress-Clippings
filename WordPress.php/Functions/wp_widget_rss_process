@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_widget_rss_process#selend#(#placeholderstart#string widget_rss#placeholderend#, #placeholderstart#bool check_feed#placeholderend#)#placeholderstart#;#placeholderend#

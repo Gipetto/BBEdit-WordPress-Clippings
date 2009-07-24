@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_cache_replace#selend#(#placeholderstart#string key#placeholderend#, #placeholderstart#string data#placeholderend#, #placeholderstart#string flag#placeholderend#, #placeholderstart#int expire#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#check_admin_referer#selend#(#placeholderstart#int action#placeholderend#, #placeholderstart#string query_arg#placeholderend#)#placeholderstart#;#placeholderend#

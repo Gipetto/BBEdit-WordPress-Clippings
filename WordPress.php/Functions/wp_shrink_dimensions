@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_shrink_dimensions#selend#(#placeholderstart#string width#placeholderend#, #placeholderstart#string height#placeholderend#, #placeholderstart#int wmax#placeholderend#, #placeholderstart#int hmax#placeholderend#)#placeholderstart#;#placeholderend#

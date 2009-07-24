@@ -1,0 +1,2 @@
+#indent#
+#selstart#delete_old_plugin#selend#(#placeholderstart#string removed#placeholderend#, #placeholderstart#string local_destination#placeholderend#, #placeholderstart#string remote_destination#placeholderend#, #placeholderstart#string plugin#placeholderend#)#placeholderstart#;#placeholderend#

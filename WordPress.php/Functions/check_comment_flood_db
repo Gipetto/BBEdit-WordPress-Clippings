@@ -1,0 +1,2 @@
+#indent#
+#selstart#check_comment_flood_db#selend#(#placeholderstart#string ip#placeholderend#, #placeholderstart#string email#placeholderend#, #placeholderstart#string date#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_the_attachment_link#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#bool fullsize#placeholderend#, #placeholderstart#bool max_dims#placeholderend#, #placeholderstart#bool permalink#placeholderend#)#placeholderstart#;#placeholderend#

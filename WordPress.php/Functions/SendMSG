@@ -1,0 +1,2 @@
+#indent#
+#selstart#SendMSG#selend#(#placeholderstart#string message#placeholderend#, #placeholderstart#bool crlf#placeholderend#)#placeholderstart#;#placeholderend#

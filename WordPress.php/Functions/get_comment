@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_comment#selend#(#placeholderstart#string comment#placeholderend#, #placeholderstart#string output#placeholderend#)#placeholderstart#;#placeholderend#

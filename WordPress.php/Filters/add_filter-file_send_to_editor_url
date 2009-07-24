@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_filter#selend#('file_send_to_editor_url','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,3)#placeholderstart#;#placeholderend#

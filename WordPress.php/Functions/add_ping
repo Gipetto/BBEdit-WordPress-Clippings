@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_ping#selend#(#placeholderstart#int post_id#placeholderend#, #placeholderstart#string uri#placeholderend#)#placeholderstart#;#placeholderend#

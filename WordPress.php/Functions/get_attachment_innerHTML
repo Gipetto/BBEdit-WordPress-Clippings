@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_attachment_innerHTML#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#bool fullsize#placeholderend#, #placeholderstart#bool max_dims#placeholderend#)#placeholderstart#;#placeholderend#

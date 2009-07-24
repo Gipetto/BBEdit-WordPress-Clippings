@@ -1,0 +1,2 @@
+#indent#
+#selstart#user_can_delete_post_comments#selend#(#placeholderstart#int user_id#placeholderend#, #placeholderstart#int post_id#placeholderend#, #placeholderstart#int blog_id#placeholderend#)#placeholderstart#;#placeholderend#

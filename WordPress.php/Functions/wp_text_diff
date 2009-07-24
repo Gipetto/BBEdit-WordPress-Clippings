@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_text_diff#selend#(#placeholderstart#string left_string#placeholderend#, #placeholderstart#string right_string#placeholderend#, #placeholderstart#array args#placeholderend#)#placeholderstart#;#placeholderend#

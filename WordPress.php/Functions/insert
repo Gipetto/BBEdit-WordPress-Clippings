@@ -1,0 +1,2 @@
+#indent#
+#selstart#insert#selend#(#placeholderstart#string table#placeholderend#, #placeholderstart#string data#placeholderend#, #placeholderstart#string format#placeholderend#)#placeholderstart#;#placeholderend#

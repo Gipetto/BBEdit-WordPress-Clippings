@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_setcookie#selend#(#placeholderstart#string username#placeholderend#, #placeholderstart#string password#placeholderend#, #placeholderstart#bool already_md5#placeholderend#, #placeholderstart#string home#placeholderend#, #placeholderstart#string siteurl#placeholderend#, #placeholderstart#bool remember#placeholderend#)#placeholderstart#;#placeholderend#

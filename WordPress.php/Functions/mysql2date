@@ -1,0 +1,2 @@
+#indent#
+#selstart#mysql2date#selend#(#placeholderstart#string dateformatstring#placeholderend#, #placeholderstart#string mysqlstring#placeholderend#, #placeholderstart#bool translate#placeholderend#)#placeholderstart#;#placeholderend#

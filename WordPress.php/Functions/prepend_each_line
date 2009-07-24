@@ -1,0 +1,2 @@
+#indent#
+#selstart#prepend_each_line#selend#(#placeholderstart#string string#placeholderend#, #placeholderstart#string with#placeholderend#)#placeholderstart#;#placeholderend#

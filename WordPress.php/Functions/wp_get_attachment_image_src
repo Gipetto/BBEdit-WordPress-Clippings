@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_get_attachment_image_src#selend#(#placeholderstart#int attachment_id#placeholderend#, #placeholderstart#string size#placeholderend#, #placeholderstart#bool icon#placeholderend#)#placeholderstart#;#placeholderend#

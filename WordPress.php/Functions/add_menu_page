@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_menu_page#selend#(#placeholderstart#string page_title#placeholderend#, #placeholderstart#string menu_title#placeholderend#, #placeholderstart#string access_level#placeholderend#, #placeholderstart#string file#placeholderend#, #placeholderstart#string function#placeholderend#, #placeholderstart#string icon_url#placeholderend#)#placeholderstart#;#placeholderend#

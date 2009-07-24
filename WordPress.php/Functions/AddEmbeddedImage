@@ -1,0 +1,2 @@
+#indent#
+#selstart#AddEmbeddedImage#selend#(#placeholderstart#string path#placeholderend#, #placeholderstart#string cid#placeholderend#, #placeholderstart#string name#placeholderend#, #placeholderstart#int encoding#placeholderend#, #placeholderstart#string type#placeholderend#)#placeholderstart#;#placeholderend#

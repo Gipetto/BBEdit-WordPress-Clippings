@@ -1,0 +1,2 @@
+#indent#
+#selstart#wpdb#selend#(#placeholderstart#string dbuser#placeholderend#, #placeholderstart#string dbpassword#placeholderend#, #placeholderstart#string dbname#placeholderend#, #placeholderstart#string dbhost#placeholderend#)#placeholderstart#;#placeholderend#

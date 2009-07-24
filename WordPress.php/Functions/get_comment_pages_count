@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_comment_pages_count#selend#(#placeholderstart#string comments#placeholderend#, #placeholderstart#string per_page#placeholderend#, #placeholderstart#string threaded#placeholderend#)#placeholderstart#;#placeholderend#

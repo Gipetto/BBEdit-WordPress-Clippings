@@ -1,0 +1,2 @@
+#indent#
+#selstart#image_resize_dimensions#selend#(#placeholderstart#string orig_w#placeholderend#, #placeholderstart#string orig_h#placeholderend#, #placeholderstart#string dest_w#placeholderend#, #placeholderstart#string dest_h#placeholderend#, #placeholderstart#bool crop#placeholderend#)#placeholderstart#;#placeholderend#

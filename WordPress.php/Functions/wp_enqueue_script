@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_enqueue_script#selend#(#placeholderstart#string handle#placeholderend#, #placeholderstart#string src#placeholderend#, #placeholderstart#array deps#placeholderend#, #placeholderstart#float ver#placeholderend#, #placeholderstart#bool in_footer#placeholderend#)#placeholderstart#;#placeholderend#

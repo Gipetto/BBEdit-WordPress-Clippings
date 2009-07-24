@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_register_sidebar_widget#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string name#placeholderend#, #placeholderstart#string output_callback#placeholderend#, #placeholderstart#string options#placeholderend#)#placeholderstart#;#placeholderend#

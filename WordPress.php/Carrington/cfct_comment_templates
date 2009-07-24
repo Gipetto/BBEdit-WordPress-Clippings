@@ -1,0 +1,2 @@
+#indent#
+#selstart#cfct_comment_templates#selend#(#placeholderstart#string type#placeholderend#, #placeholderstart#bool files#placeholderend#)#placeholderstart#;#placeholderend#

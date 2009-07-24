@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_comment_to_entry#selend#(#placeholderstart#string entry#placeholderend#, #placeholderstart#string po_comment_line#placeholderend#)#placeholderstart#;#placeholderend#

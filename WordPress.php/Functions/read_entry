@@ -1,0 +1,2 @@
+#indent#
+#selstart#read_entry#selend#(#placeholderstart#string f#placeholderend#, #placeholderstart#int lineno#placeholderend#)#placeholderstart#;#placeholderend#

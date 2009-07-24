@@ -1,0 +1,2 @@
+#indent#
+#selstart#check_column#selend#(#placeholderstart#string table_name#placeholderend#, #placeholderstart#string col_name#placeholderend#, #placeholderstart#string col_type#placeholderend#, #placeholderstart#string is_null#placeholderend#, #placeholderstart#string key#placeholderend#, #placeholderstart#string default#placeholderend#, #placeholderstart#string extra#placeholderend#)#placeholderstart#;#placeholderend#

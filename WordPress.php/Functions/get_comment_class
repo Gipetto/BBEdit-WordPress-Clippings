@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_comment_class#selend#(#placeholderstart#string class#placeholderend#, #placeholderstart#int comment_id#placeholderend#, #placeholderstart#int post_id#placeholderend#)#placeholderstart#;#placeholderend#

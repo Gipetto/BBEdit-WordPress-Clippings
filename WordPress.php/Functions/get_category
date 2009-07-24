@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_category#selend#(#placeholderstart#object category#placeholderend#, #placeholderstart#string output#placeholderend#, #placeholderstart#string filter#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#stripos#selend#(#placeholderstart#string haystack#placeholderend#, #placeholderstart#string needle#placeholderend#, #placeholderstart#int offset#placeholderend#)#placeholderstart#;#placeholderend#

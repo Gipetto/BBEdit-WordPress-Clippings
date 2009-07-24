@@ -1,0 +1,2 @@
+#indent#
+#selstart#cmpr_strlen#selend#(#placeholderstart#string a#placeholderend#, #placeholderstart#string b#placeholderend#)#placeholderstart#;#placeholderend#

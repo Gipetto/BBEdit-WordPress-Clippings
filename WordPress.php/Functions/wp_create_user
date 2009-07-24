@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_create_user#selend#(#placeholderstart#string username#placeholderend#, #placeholderstart#string password#placeholderend#, #placeholderstart#string email#placeholderend#)#placeholderstart#;#placeholderend#

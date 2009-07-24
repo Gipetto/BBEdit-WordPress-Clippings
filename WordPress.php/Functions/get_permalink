@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_permalink#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#bool leavename#placeholderend#)#placeholderstart#;#placeholderend#

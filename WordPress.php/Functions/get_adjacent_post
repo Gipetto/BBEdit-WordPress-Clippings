@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_adjacent_post#selend#(#placeholderstart#bool in_same_cat#placeholderend#, #placeholderstart#string excluded_categories#placeholderend#, #placeholderstart#bool previous#placeholderend#)#placeholderstart#;#placeholderend#

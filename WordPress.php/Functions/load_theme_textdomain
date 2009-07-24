@@ -1,0 +1,2 @@
+#indent#
+#selstart#load_theme_textdomain#selend#(#placeholderstart#string domain#placeholderend#, #placeholderstart#bool path#placeholderend#)#placeholderstart#;#placeholderend#

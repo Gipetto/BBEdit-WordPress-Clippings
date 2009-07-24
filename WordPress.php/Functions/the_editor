@@ -1,0 +1,2 @@
+#indent#
+#selstart#the_editor#selend#(#placeholderstart#string content#placeholderend#, #placeholderstart#int id#placeholderend#, #placeholderstart#int prev_id#placeholderend#, #placeholderstart#bool media_buttons#placeholderend#, #placeholderstart#int tab_index#placeholderend#)#placeholderstart#;#placeholderend#

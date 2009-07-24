@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_next_posts_link#selend#(#placeholderstart#string label#placeholderend#, #placeholderstart#int max_page#placeholderend#)#placeholderstart#;#placeholderend#

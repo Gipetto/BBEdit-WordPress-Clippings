@@ -1,0 +1,2 @@
+#indent#
+#selstart#fetch_remote_file#selend#(#placeholderstart#object post#placeholderend#, #placeholderstart#string url#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_commentdata#selend#(#placeholderstart#string comment_ID#placeholderend#, #placeholderstart#int no_cache#placeholderend#, #placeholderstart#bool include_unapproved#placeholderend#)#placeholderstart#;#placeholderend#

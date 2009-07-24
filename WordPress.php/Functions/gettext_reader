@@ -1,0 +1,2 @@
+#indent#
+#selstart#gettext_reader#selend#(#placeholderstart#string Reader#placeholderend#, #placeholderstart#bool enable_cache#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_delete_object_term_relationships#selend#(#placeholderstart#int object_id#placeholderend#, #placeholderstart#string taxonomies#placeholderend#)#placeholderstart#;#placeholderend#

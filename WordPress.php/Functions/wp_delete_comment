@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_delete_comment#selend#(#placeholderstart#int comment_id#placeholderend#)#placeholderstart#;#placeholderend#

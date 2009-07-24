@@ -1,0 +1,2 @@
+#indent#
+#selstart#register_sidebar_widget#selend#(#placeholderstart#string name#placeholderend#, #placeholderstart#string output_callback#placeholderend#, #placeholderstart#string classname#placeholderend#)#placeholderstart#;#placeholderend#

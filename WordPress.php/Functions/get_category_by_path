@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_category_by_path#selend#(#placeholderstart#string category_path#placeholderend#, #placeholderstart#bool full_match#placeholderend#, #placeholderstart#string output#placeholderend#)#placeholderstart#;#placeholderend#

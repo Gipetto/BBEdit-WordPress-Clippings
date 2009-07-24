@@ -1,0 +1,2 @@
+#indent#
+#selstart#put_contents#selend#(#placeholderstart#string file#placeholderend#, #placeholderstart#string contents#placeholderend#, #placeholderstart#string type#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_transition_post_status#selend#(#placeholderstart#string new_status#placeholderend#, #placeholderstart#string old_status#placeholderend#, #placeholderstart#object post#placeholderend#)#placeholderstart#;#placeholderend#

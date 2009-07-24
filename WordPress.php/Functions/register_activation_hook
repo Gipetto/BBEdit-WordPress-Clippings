@@ -1,0 +1,2 @@
+#indent#
+#selstart#register_activation_hook#selend#(#placeholderstart#string file#placeholderend#, #placeholderstart#string function#placeholderend#)#placeholderstart#;#placeholderend#

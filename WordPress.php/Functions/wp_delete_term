@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_delete_term#selend#(#placeholderstart#string term#placeholderend#, #placeholderstart#string taxonomy#placeholderend#, #placeholderstart#array args#placeholderend#)#placeholderstart#;#placeholderend#

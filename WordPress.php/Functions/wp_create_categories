@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_create_categories#selend#(#placeholderstart#string categories#placeholderend#, #placeholderstart#int post_id#placeholderend#)#placeholderstart#;#placeholderend#

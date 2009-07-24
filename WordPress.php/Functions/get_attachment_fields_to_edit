@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_attachment_fields_to_edit#selend#(#placeholderstart#object post#placeholderend#, #placeholderstart#string errors#placeholderend#)#placeholderstart#;#placeholderend#

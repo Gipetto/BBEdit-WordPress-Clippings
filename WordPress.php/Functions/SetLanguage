@@ -1,0 +1,2 @@
+#indent#
+#selstart#SetLanguage#selend#(#placeholderstart#string lang_type#placeholderend#, #placeholderstart#string lang_path#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_filter#selend#('attachment_fields_to_edit','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,2)#placeholderstart#;#placeholderend#

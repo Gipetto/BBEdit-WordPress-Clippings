@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_new_blog_notification#selend#(#placeholderstart#string blog_title#placeholderend#, #placeholderstart#string blog_url#placeholderend#, #placeholderstart#int user_id#placeholderend#, #placeholderstart#string password#placeholderend#)#placeholderstart#;#placeholderend#

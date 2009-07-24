@@ -1,0 +1,2 @@
+#indent#
+#selstart#list_authors#selend#(#placeholderstart#bool optioncount#placeholderend#, #placeholderstart#bool exclude_admin#placeholderend#, #placeholderstart#bool show_fullname#placeholderend#, #placeholderstart#bool hide_empty#placeholderend#, #placeholderstart#string feed#placeholderend#, #placeholderstart#string feed_image#placeholderend#)#placeholderstart#;#placeholderend#

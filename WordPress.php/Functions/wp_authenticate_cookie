@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_authenticate_cookie#selend#(#placeholderstart#string user#placeholderend#, #placeholderstart#string username#placeholderend#, #placeholderstart#string password#placeholderend#)#placeholderstart#;#placeholderend#

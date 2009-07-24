@@ -1,0 +1,2 @@
+#indent#
+#selstart#translate_plural#selend#(#placeholderstart#string singular#placeholderend#, #placeholderstart#string plural#placeholderend#, #placeholderstart#string count#placeholderend#, #placeholderstart#string context#placeholderend#)#placeholderstart#;#placeholderend#

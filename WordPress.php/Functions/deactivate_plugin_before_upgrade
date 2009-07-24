@@ -1,0 +1,2 @@
+#indent#
+#selstart#deactivate_plugin_before_upgrade#selend#(#placeholderstart#string return#placeholderend#, #placeholderstart#string plugin#placeholderend#)#placeholderstart#;#placeholderend#

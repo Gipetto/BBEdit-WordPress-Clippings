@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_crop_image#selend#(#placeholderstart#string src_file#placeholderend#, #placeholderstart#string src_x#placeholderend#, #placeholderstart#string src_y#placeholderend#, #placeholderstart#string src_w#placeholderend#, #placeholderstart#string src_h#placeholderend#, #placeholderstart#string dst_w#placeholderend#, #placeholderstart#string dst_h#placeholderend#, #placeholderstart#bool src_abs#placeholderend#, #placeholderstart#bool dst_file#placeholderend#)#placeholderstart#;#placeholderend#

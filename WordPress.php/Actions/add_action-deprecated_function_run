@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_action#selend#('deprecated_function_run','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,2)#placeholderstart#;#placeholderend#

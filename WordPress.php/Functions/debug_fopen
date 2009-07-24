@@ -1,0 +1,2 @@
+#indent#
+#selstart#debug_fopen#selend#(#placeholderstart#string filename#placeholderend#, #placeholderstart#string mode#placeholderend#)#placeholderstart#;#placeholderend#

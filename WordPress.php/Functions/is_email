@@ -1,0 +1,2 @@
+#indent#
+#selstart#is_email#selend#(#placeholderstart#string email#placeholderend#, #placeholderstart#bool check_dns#placeholderend#)#placeholderstart#;#placeholderend#

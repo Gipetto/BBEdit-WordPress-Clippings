@@ -1,0 +1,2 @@
+#indent#
+#selstart#image_resize#selend#(#placeholderstart#string file#placeholderend#, #placeholderstart#string max_w#placeholderend#, #placeholderstart#string max_h#placeholderend#, #placeholderstart#bool crop#placeholderend#, #placeholderstart#string suffix#placeholderend#, #placeholderstart#string dest_path#placeholderend#, #placeholderstart#int jpeg_quality#placeholderend#)#placeholderstart#;#placeholderend#

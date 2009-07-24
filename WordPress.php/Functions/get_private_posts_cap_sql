@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_private_posts_cap_sql#selend#(#placeholderstart#string post_type#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_insert_attachment#selend#(#placeholderstart#object object#placeholderend#, #placeholderstart#bool file#placeholderend#, #placeholderstart#int parent#placeholderend#)#placeholderstart#;#placeholderend#

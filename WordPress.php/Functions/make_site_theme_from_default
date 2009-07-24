@@ -1,0 +1,2 @@
+#indent#
+#selstart#make_site_theme_from_default#selend#(#placeholderstart#string theme_name#placeholderend#, #placeholderstart#string template#placeholderend#)#placeholderstart#;#placeholderend#

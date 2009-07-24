@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_update_comment_count#selend#(#placeholderstart#int post_id#placeholderend#, #placeholderstart#bool do_deferred#placeholderend#)#placeholderstart#;#placeholderend#

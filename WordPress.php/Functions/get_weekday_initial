@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_weekday_initial#selend#(#placeholderstart#string weekday_name#placeholderend#)#placeholderstart#;#placeholderend#

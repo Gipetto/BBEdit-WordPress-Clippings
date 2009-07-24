@@ -1,0 +1,2 @@
+#indent#
+#selstart#register_widget_control#selend#(#placeholderstart#string name#placeholderend#, #placeholderstart#string control_callback#placeholderend#, #placeholderstart#string width#placeholderend#, #placeholderstart#string height#placeholderend#)#placeholderstart#;#placeholderend#

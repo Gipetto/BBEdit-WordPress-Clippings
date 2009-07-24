@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_set_post_cats#selend#(#placeholderstart#int blogid#placeholderend#, #placeholderstart#int post_ID#placeholderend#, #placeholderstart#string post_categories#placeholderend#)#placeholderstart#;#placeholderend#

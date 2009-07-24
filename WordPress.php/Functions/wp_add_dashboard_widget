@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_add_dashboard_widget#selend#(#placeholderstart#int widget_id#placeholderend#, #placeholderstart#string widget_name#placeholderend#, #placeholderstart#string callback#placeholderend#, #placeholderstart#string control_callback#placeholderend#)#placeholderstart#;#placeholderend#

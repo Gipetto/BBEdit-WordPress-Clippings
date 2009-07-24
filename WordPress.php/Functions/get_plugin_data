@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_plugin_data#selend#(#placeholderstart#string plugin_file#placeholderend#, #placeholderstart#bool markup#placeholderend#, #placeholderstart#bool translate#placeholderend#)#placeholderstart#;#placeholderend#

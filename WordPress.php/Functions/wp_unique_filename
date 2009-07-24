@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_unique_filename#selend#(#placeholderstart#string dir#placeholderend#, #placeholderstart#string filename#placeholderend#, #placeholderstart#string unique_filename_callback#placeholderend#)#placeholderstart#;#placeholderend#

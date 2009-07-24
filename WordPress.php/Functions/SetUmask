@@ -1,0 +1,2 @@
+#indent#
+#selstart#SetUmask#selend#(#placeholderstart#int umask#placeholderend#)#placeholderstart#;#placeholderend#

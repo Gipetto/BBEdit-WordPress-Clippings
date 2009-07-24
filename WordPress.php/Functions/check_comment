@@ -1,0 +1,2 @@
+#indent#
+#selstart#check_comment#selend#(#placeholderstart#string author#placeholderend#, #placeholderstart#string email#placeholderend#, #placeholderstart#string url#placeholderend#, #placeholderstart#string comment#placeholderend#, #placeholderstart#string user_ip#placeholderend#, #placeholderstart#string user_agent#placeholderend#, #placeholderstart#string comment_type#placeholderend#)#placeholderstart#;#placeholderend#

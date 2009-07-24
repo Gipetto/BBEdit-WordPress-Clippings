@@ -1,0 +1,2 @@
+#indent#
+#selstart#cfct_get_cancel_comment_reply_link#selend#(#placeholderstart#string reply_link#placeholderend#, #placeholderstart#string link#placeholderend#, #placeholderstart#string text#placeholderend#)#placeholderstart#;#placeholderend#

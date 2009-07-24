@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_constrain_dimensions#selend#(#placeholderstart#string current_width#placeholderend#, #placeholderstart#string current_height#placeholderend#, #placeholderstart#int max_width#placeholderend#, #placeholderstart#int max_height#placeholderend#)#placeholderstart#;#placeholderend#

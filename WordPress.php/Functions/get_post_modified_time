@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_post_modified_time#selend#(#placeholderstart#string d#placeholderend#, #placeholderstart#bool gmt#placeholderend#, #placeholderstart#object post#placeholderend#, #placeholderstart#bool translate#placeholderend#)#placeholderstart#;#placeholderend#

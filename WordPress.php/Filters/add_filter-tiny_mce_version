@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_filter#selend#('tiny_mce_version','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#update#selend#(#placeholderstart#string table#placeholderend#, #placeholderstart#string data#placeholderend#, #placeholderstart#string where#placeholderend#, #placeholderstart#string format#placeholderend#, #placeholderstart#string where_format#placeholderend#)#placeholderstart#;#placeholderend#

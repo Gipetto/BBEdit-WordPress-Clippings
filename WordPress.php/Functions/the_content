@@ -1,0 +1,2 @@
+#indent#
+#selstart#the_content#selend#(#placeholderstart#string more_link_text#placeholderend#, #placeholderstart#int stripteaser#placeholderend#, #placeholderstart#string more_file#placeholderend#)#placeholderstart#;#placeholderend#

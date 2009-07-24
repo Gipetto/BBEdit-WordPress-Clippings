@@ -1,0 +1,2 @@
+#indent#
+#selstart#check_ajax_referer#selend#(#placeholderstart#int action#placeholderend#, #placeholderstart#bool query_arg#placeholderend#, #placeholderstart#bool die#placeholderend#)#placeholderstart#;#placeholderend#

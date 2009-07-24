@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_filter#selend#('clean_url','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,3)#placeholderstart#;#placeholderend#

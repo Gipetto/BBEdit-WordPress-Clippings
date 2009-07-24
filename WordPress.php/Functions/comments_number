@@ -1,0 +1,2 @@
+#indent#
+#selstart#comments_number#selend#(#placeholderstart#bool zero#placeholderend#, #placeholderstart#bool one#placeholderend#, #placeholderstart#bool more#placeholderend#, #placeholderstart#string deprecated#placeholderend#)#placeholderstart#;#placeholderend#

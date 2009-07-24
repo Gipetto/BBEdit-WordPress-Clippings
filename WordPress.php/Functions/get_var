@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_var#selend#(#placeholderstart#string query#placeholderend#, #placeholderstart#int x#placeholderend#, #placeholderstart#int y#placeholderend#)#placeholderstart#;#placeholderend#

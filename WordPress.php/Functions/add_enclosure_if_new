@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_enclosure_if_new#selend#(#placeholderstart#string post_ID#placeholderend#, #placeholderstart#string enclosure#placeholderend#)#placeholderstart#;#placeholderend#

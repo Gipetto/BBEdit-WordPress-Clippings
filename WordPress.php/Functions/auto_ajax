@@ -1,0 +1,2 @@
+#indent#
+#selstart#auto_ajax#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string msg#placeholderend#, #placeholderstart#int seconds#placeholderend#)#placeholderstart#;#placeholderend#

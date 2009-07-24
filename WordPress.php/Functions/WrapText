@@ -1,0 +1,2 @@
+#indent#
+#selstart#WrapText#selend#(#placeholderstart#string message#placeholderend#, #placeholderstart#int length#placeholderend#, #placeholderstart#bool qp_mode#placeholderend#)#placeholderstart#;#placeholderend#

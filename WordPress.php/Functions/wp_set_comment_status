@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_set_comment_status#selend#(#placeholderstart#int comment_id#placeholderend#, #placeholderstart#string comment_status#placeholderend#, #placeholderstart#bool wp_error#placeholderend#)#placeholderstart#;#placeholderend#

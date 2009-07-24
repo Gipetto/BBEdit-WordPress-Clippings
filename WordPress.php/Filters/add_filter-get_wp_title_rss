@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_filter#selend#('get_wp_title_rss','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,1)#placeholderstart#;#placeholderend#

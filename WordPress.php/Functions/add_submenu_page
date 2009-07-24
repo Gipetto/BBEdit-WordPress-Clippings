@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_submenu_page#selend#(#placeholderstart#string parent#placeholderend#, #placeholderstart#string page_title#placeholderend#, #placeholderstart#string menu_title#placeholderend#, #placeholderstart#string access_level#placeholderend#, #placeholderstart#string file#placeholderend#, #placeholderstart#string function#placeholderend#)#placeholderstart#;#placeholderend#

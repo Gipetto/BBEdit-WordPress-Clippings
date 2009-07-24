@@ -1,0 +1,2 @@
+#indent#
+#selstart#next_posts#selend#(#placeholderstart#int max_page#placeholderend#, #placeholderstart#bool echo#placeholderend#)#placeholderstart#;#placeholderend#

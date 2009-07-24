@@ -1,0 +1,2 @@
+#indent#
+#selstart#validate_file_to_edit#selend#(#placeholderstart#string file#placeholderend#, #placeholderstart#string allowed_files#placeholderend#)#placeholderstart#;#placeholderend#

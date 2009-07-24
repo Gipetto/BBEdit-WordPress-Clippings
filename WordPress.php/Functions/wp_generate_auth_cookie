@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_generate_auth_cookie#selend#(#placeholderstart#int user_id#placeholderend#, #placeholderstart#string expiration#placeholderend#, #placeholderstart#string scheme#placeholderend#)#placeholderstart#;#placeholderend#

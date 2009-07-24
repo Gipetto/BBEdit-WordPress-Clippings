@@ -1,0 +1,2 @@
+#indent#
+#selstart#esc_attr_e#selend#(#placeholderstart#string text#placeholderend#, #placeholderstart#string domain#placeholderend#)#placeholderstart#;#placeholderend#

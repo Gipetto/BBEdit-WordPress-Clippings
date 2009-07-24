@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_contents#selend#(#placeholderstart#string file#placeholderend#, #placeholderstart#string type#placeholderend#, #placeholderstart#int resumepos#placeholderend#)#placeholderstart#;#placeholderend#

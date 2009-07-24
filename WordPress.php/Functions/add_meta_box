@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_meta_box#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string title#placeholderend#, #placeholderstart#string callback#placeholderend#, #placeholderstart#string page#placeholderend#, #placeholderstart#string context#placeholderend#, #placeholderstart#string priority#placeholderend#, #placeholderstart#string callback_args#placeholderend#)#placeholderstart#;#placeholderend#

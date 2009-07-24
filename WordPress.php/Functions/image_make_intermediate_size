@@ -1,0 +1,2 @@
+#indent#
+#selstart#image_make_intermediate_size#selend#(#placeholderstart#string file#placeholderend#, #placeholderstart#string width#placeholderend#, #placeholderstart#string height#placeholderend#, #placeholderstart#bool crop#placeholderend#)#placeholderstart#;#placeholderend#

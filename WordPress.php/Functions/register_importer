@@ -1,0 +1,2 @@
+#indent#
+#selstart#register_importer#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string name#placeholderend#, #placeholderstart#string description#placeholderend#, #placeholderstart#string callback#placeholderend#)#placeholderstart#;#placeholderend#

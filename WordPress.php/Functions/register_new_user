@@ -1,0 +1,2 @@
+#indent#
+#selstart#register_new_user#selend#(#placeholderstart#string user_login#placeholderend#, #placeholderstart#string user_email#placeholderend#)#placeholderstart#;#placeholderend#

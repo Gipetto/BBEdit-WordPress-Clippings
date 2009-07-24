@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_attachment_icon_src#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#bool fullsize#placeholderend#)#placeholderstart#;#placeholderend#

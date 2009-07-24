@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_userdatabylogin#selend#(#placeholderstart#string user_login#placeholderend#)#placeholderstart#;#placeholderend#

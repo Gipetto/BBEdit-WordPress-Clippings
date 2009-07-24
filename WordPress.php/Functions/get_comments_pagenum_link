@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_comments_pagenum_link#selend#(#placeholderstart#int pagenum#placeholderend#, #placeholderstart#int max_page#placeholderend#)#placeholderstart#;#placeholderend#

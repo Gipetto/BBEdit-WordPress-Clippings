@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_image_tag#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string alt#placeholderend#, #placeholderstart#string title#placeholderend#, #placeholderstart#string align#placeholderend#, #placeholderstart#string size#placeholderend#)#placeholderstart#;#placeholderend#

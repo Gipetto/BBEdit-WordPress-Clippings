@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_attachments#selend#(#placeholderstart#int page#placeholderend#, #placeholderstart#string post_type#placeholderend#)#placeholderstart#;#placeholderend#

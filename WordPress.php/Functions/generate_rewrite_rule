@@ -1,0 +1,2 @@
+#indent#
+#selstart#generate_rewrite_rule#selend#(#placeholderstart#string permalink_structure#placeholderend#, #placeholderstart#bool walk_dirs#placeholderend#)#placeholderstart#;#placeholderend#

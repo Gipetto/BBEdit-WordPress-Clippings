@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_category_checklist#selend#(#placeholderstart#int post_id#placeholderend#, #placeholderstart#int descendants_and_self#placeholderend#, #placeholderstart#bool selected_cats#placeholderend#, #placeholderstart#bool popular_cats#placeholderend#, #placeholderstart#string walker#placeholderend#)#placeholderstart#;#placeholderend#

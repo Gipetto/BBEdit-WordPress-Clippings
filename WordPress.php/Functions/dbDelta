@@ -1,0 +1,2 @@
+#indent#
+#selstart#dbDelta#selend#(#placeholderstart#string queries#placeholderend#, #placeholderstart#bool execute#placeholderend#)#placeholderstart#;#placeholderend#
