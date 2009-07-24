@@ -2,6 +2,8 @@
 
 This is a Clipping bundle for BBEdit 9+ to help make working with WordPress (hopefully) a lot easier. These clippings will be maintained for the current version of WordPress. No conscious effort will be maintained to provide backward compatibility.
 
+Function completion is enabled under the PHP scope.
+
 ## Functions
 
 Clippings are provided for all functions present in the WordPress standard distribution. No attempt is made at intelligent sorting nor is there a distinction at this time between regular functions and class methods. I think a Javascript function even crept in there somewhere. 
