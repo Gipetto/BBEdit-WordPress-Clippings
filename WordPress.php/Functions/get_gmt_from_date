@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_gmt_from_date#selend#(#placeholderstart#string string#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_gmt_from_date#selend#(#placeholderstart#string string#placeholderend#, #placeholderstart#string format#placeholderend#)#placeholderstart#;#placeholderend#
