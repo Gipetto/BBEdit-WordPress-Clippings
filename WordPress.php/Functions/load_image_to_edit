@@ -1,0 +1,2 @@
+#indent#
+#selstart#load_image_to_edit#selend#(#placeholderstart#int post_id#placeholderend#, #placeholderstart#string mime_type#placeholderend#, #placeholderstart#string size#placeholderend#)#placeholderstart#;#placeholderend#

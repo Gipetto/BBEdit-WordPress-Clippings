@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_stream_image#selend#(#placeholderstart#string image#placeholderend#, #placeholderstart#string mime_type#placeholderend#, #placeholderstart#int post_id#placeholderend#)#placeholderstart#;#placeholderend#

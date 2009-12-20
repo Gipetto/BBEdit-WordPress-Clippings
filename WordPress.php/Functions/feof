@@ -1,2 +1,2 @@
 #indent#
-#selstart#feof#selend#(#placeholderstart#string fp#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#feof#selend#()#placeholderstart#;#placeholderend#

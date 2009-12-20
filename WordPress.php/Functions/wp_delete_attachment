@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_delete_attachment#selend#(#placeholderstart#string postid#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_delete_attachment#selend#(#placeholderstart#int post_id#placeholderend#, #placeholderstart#bool force_delete#placeholderend#)#placeholderstart#;#placeholderend#

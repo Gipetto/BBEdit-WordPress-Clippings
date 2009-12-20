@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_tiny_mce#selend#(#placeholderstart#bool teeny#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_tiny_mce#selend#(#placeholderstart#bool teeny#placeholderend#, #placeholderstart#bool settings#placeholderend#)#placeholderstart#;#placeholderend#

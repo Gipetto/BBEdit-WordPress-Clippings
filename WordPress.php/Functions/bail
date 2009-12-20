@@ -1,2 +1,2 @@
 #indent#
-#selstart#bail#selend#(#placeholderstart#string message#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#bail#selend#(#placeholderstart#string message#placeholderend#, #placeholderstart#int error_code#placeholderend#)#placeholderstart#;#placeholderend#

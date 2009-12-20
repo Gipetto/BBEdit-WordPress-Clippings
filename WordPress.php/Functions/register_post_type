@@ -1,0 +1,2 @@
+#indent#
+#selstart#register_post_type#selend#(#placeholderstart#string post_type#placeholderend#, #placeholderstart#array args#placeholderend#)#placeholderstart#;#placeholderend#

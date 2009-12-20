@@ -1,2 +1,2 @@
 #indent#
-#selstart#iis7_url_rewrite_rules#selend#()#placeholderstart#;#placeholderend#
+#selstart#iis7_url_rewrite_rules#selend#(#placeholderstart#bool add_parent_tags#placeholderend#, #placeholderstart#string indent#placeholderend#, #placeholderstart#string end_of_line#placeholderend#)#placeholderstart#;#placeholderend#

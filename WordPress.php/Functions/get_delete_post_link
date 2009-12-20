@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_delete_post_link#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string context#placeholderend#)#placeholderstart#;#placeholderend#

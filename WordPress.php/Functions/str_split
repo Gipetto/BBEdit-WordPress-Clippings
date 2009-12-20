@@ -1,0 +1,2 @@
+#indent#
+#selstart#str_split#selend#(#placeholderstart#string string#placeholderend#, #placeholderstart#string chunk_size#placeholderend#)#placeholderstart#;#placeholderend#

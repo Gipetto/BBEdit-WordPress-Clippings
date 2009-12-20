@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_metadata#selend#(#placeholderstart#string meta_type#placeholderend#, #placeholderstart#int object_id#placeholderend#, #placeholderstart#string meta_key#placeholderend#, #placeholderstart#bool single#placeholderend#)#placeholderstart#;#placeholderend#

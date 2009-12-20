@@ -1,0 +1,2 @@
+#indent#
+#selstart#substr#selend#(#placeholderstart#string string#placeholderend#, #placeholderstart#string start#placeholderend#, #placeholderstart#int length#placeholderend#)#placeholderstart#;#placeholderend#

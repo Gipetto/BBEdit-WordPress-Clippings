@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_oembed_add_provider#selend#(#placeholderstart#string format#placeholderend#, #placeholderstart#string provider#placeholderend#, #placeholderstart#bool regex#placeholderend#)#placeholderstart#;#placeholderend#
