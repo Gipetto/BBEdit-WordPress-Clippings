@@ -1,2 +1,2 @@
 #indent#
-#selstart#mb_substr#selend#(#placeholderstart#string str#placeholderend#, #placeholderstart#string start#placeholderend#, #placeholderstart#int length#placeholderend#, #placeholderstart#string encoding#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#mb_substr#selend#(#placeholderstart#string str#placeholderend#, #placeholderstart#string start#placeholderend#, #placeholderstart#string len#placeholderend#, #placeholderstart#int encoding#placeholderend#)#placeholderstart#;#placeholderend#

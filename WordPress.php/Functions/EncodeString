@@ -1,2 +1,2 @@
 #indent#
-#selstart#EncodeString#selend#(#placeholderstart#string str#placeholderend#, #placeholderstart#int encoding#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#encodeString#selend#(#placeholderstart#string input#placeholderend#)#placeholderstart#;#placeholderend#
