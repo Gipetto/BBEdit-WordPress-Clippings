@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#wp_dropdown_cats#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('comments_per_page','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,2)#placeholderstart#;#placeholderend#
+add_filter('#selstart#comments_per_page#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

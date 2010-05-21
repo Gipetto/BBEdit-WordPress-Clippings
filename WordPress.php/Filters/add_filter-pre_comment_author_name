@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('pre_comment_author_name','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,1)#placeholderstart#;#placeholderend#
+add_filter('#selstart#pre_comment_author_name#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('install_plugin_complete_actions','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,3)#placeholderstart#;#placeholderend#
+add_filter('#selstart#install_plugin_complete_actions#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

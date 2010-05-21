@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_action#selend#('user_profile_update_errors','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,3)#placeholderstart#;#placeholderend#
+add_action('#selstart#user_profile_update_errors#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

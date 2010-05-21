@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#wp_default_styles#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

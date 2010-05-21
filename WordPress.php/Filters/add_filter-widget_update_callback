@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('widget_update_callback','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,4)#placeholderstart#;#placeholderend#
+add_filter('#selstart#widget_update_callback#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 4)#placeholderstart#;#placeholderend#

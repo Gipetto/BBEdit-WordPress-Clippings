@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('atom_enclosure','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,1)#placeholderstart#;#placeholderend#
+add_filter('#selstart#atom_enclosure#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

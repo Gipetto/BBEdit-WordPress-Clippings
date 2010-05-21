@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_action#selend#('comment_id_not_found','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,1)#placeholderstart#;#placeholderend#
+add_action('#selstart#comment_id_not_found#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

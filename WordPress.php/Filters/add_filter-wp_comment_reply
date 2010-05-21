@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#wp_comment_reply#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

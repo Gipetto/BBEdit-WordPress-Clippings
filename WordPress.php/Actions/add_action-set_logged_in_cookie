@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_action#selend#('set_logged_in_cookie','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,4)#placeholderstart#;#placeholderend#
+add_action('#selstart#set_logged_in_cookie#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 4)#placeholderstart#;#placeholderend#

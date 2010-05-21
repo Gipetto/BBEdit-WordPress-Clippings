@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#update_footer#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

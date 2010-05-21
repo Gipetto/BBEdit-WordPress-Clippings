@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('use_http_extension_transport','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#
+add_filter('#selstart#use_http_extension_transport#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

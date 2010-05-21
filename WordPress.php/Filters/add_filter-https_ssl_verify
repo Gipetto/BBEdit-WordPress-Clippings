@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('https_ssl_verify','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,1)#placeholderstart#;#placeholderend#
+add_filter('#selstart#https_ssl_verify#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

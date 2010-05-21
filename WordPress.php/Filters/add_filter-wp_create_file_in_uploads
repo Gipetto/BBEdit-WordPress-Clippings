@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('wp_create_file_in_uploads','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,2)#placeholderstart#;#placeholderend#
+add_filter('#selstart#wp_create_file_in_uploads#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

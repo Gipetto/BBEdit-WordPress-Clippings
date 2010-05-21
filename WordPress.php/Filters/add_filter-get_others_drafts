@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('get_others_drafts','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,1)#placeholderstart#;#placeholderend#
+add_filter('#selstart#get_others_drafts#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

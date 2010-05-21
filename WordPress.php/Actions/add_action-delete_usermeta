@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#delete_usermeta#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 4)#placeholderstart#;#placeholderend#

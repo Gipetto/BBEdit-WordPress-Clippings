@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#wp_save_image_file#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 4)#placeholderstart#;#placeholderend#

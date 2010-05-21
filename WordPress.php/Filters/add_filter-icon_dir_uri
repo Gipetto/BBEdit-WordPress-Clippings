@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#icon_dir_uri#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

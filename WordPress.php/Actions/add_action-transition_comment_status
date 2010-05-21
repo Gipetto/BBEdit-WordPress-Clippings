@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_action#selend#('transition_comment_status','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,3)#placeholderstart#;#placeholderend#
+add_action('#selstart#transition_comment_status#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

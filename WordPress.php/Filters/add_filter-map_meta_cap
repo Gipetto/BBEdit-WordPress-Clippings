@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('map_meta_cap','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,4)#placeholderstart#;#placeholderend#
+add_filter('#selstart#map_meta_cap#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 4)#placeholderstart#;#placeholderend#

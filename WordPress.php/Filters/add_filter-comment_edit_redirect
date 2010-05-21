@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#comment_edit_redirect#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

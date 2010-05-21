@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('author_email','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#
+add_filter('#selstart#author_email#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

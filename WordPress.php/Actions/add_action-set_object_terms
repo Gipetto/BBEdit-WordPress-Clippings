@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_action#selend#('set_object_terms','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,5)#placeholderstart#;#placeholderend#
+add_action('#selstart#set_object_terms#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 6)#placeholderstart#;#placeholderend#

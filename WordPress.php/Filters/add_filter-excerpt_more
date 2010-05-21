@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#excerpt_more#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('upgrader_post_install','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,2)#placeholderstart#;#placeholderend#
+add_filter('#selstart#upgrader_post_install#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#number_format_i18n#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

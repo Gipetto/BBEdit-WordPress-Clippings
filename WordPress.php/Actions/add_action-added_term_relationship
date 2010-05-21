@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#added_term_relationship#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

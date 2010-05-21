@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#updated_option#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

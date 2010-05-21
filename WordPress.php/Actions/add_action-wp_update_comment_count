@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_action#selend#('wp_update_comment_count','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,3)#placeholderstart#;#placeholderend#
+add_action('#selstart#wp_update_comment_count#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

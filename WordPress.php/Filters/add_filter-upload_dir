@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#upload_dir#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 5)#placeholderstart#;#placeholderend#

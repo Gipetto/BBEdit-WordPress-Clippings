@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('the_permalink_rss','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#
+add_filter('#selstart#the_permalink_rss#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#edited_term_taxonomies#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

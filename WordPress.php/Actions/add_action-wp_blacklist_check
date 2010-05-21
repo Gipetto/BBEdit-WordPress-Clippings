@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_action#selend#('wp_blacklist_check','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,6)#placeholderstart#;#placeholderend#
+add_action('#selstart#wp_blacklist_check#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 6)#placeholderstart#;#placeholderend#

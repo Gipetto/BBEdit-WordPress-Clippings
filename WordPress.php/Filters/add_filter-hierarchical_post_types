@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('hierarchical_post_types','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#
+add_filter('#selstart#hierarchical_post_types#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

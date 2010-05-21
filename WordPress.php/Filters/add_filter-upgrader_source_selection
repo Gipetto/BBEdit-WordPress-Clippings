@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('upgrader_source_selection','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,3)#placeholderstart#;#placeholderend#
+add_filter('#selstart#upgrader_source_selection#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

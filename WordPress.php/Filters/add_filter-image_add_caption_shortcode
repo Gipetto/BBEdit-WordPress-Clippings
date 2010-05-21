@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#image_add_caption_shortcode#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

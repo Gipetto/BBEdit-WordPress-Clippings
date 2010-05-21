@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_action#selend#('permalink_structure_changed','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,2)#placeholderstart#;#placeholderend#
+add_action('#selstart#permalink_structure_changed#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

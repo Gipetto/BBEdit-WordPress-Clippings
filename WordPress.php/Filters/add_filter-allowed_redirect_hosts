@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_filter#selend#('allowed_redirect_hosts','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#,1)#placeholderstart#;#placeholderend#
+add_filter('#selstart#allowed_redirect_hosts#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#
