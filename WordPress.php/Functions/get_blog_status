@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_blog_status#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string pref#placeholderend#)#placeholderstart#;#placeholderend#

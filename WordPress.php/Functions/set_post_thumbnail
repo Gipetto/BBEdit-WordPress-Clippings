@@ -1,0 +1,2 @@
+#indent#
+#selstart#set_post_thumbnail#selend#(#placeholderstart#object post#placeholderend#, #placeholderstart#int thumbnail_id#placeholderend#)#placeholderstart#;#placeholderend#

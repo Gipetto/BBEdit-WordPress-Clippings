@@ -1,6 +1,2 @@
 #indent#
-<<<<<<< HEAD
 #selstart#cfct_choose_single_template_author#selend#(#placeholderstart#string dir#placeholderend#, #placeholderstart#string files#placeholderend#, #placeholderstart#string filter#placeholderend#)#placeholderstart#;#placeholderend#
-=======
-#selstart#cfct_choose_single_template_author#selend#(#placeholderstart#string dir#placeholderend#, #placeholderstart#string files#placeholderend#)#placeholderstart#;#placeholderend#
->>>>>>> 384fbf710a08fbea35a9c389226045e2bc1beb15

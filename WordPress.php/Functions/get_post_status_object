@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_post_status_object#selend#(#placeholderstart#string post_status#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#network_site_users_after_list_table#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

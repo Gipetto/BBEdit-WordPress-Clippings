@@ -1,0 +1,2 @@
+#indent#
+#selstart#wpmu_welcome_notification#selend#(#placeholderstart#int blog_id#placeholderend#, #placeholderstart#int user_id#placeholderend#, #placeholderstart#string password#placeholderend#, #placeholderstart#string title#placeholderend#, #placeholderstart#string meta#placeholderend#)#placeholderstart#;#placeholderend#

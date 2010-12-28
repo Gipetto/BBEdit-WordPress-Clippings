@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_custom_background#selend#(#placeholderstart#string header_callback#placeholderend#, #placeholderstart#string admin_header_callback#placeholderend#, #placeholderstart#string admin_image_div_callback#placeholderend#)#placeholderstart#;#placeholderend#

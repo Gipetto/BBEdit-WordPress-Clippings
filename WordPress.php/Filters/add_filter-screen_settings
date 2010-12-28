@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#screen_settings#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

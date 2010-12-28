@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#post_format_rewrite_base#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_basename#selend#(#placeholderstart#string path#placeholderend#, #placeholderstart#string suffix#placeholderend#)#placeholderstart#;#placeholderend#

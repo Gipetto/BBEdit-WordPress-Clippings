@@ -1,0 +1,2 @@
+#indent#
+#selstart#show_blog_form#selend#(#placeholderstart#string blogname#placeholderend#, #placeholderstart#string blog_title#placeholderend#, #placeholderstart#string errors#placeholderend#)#placeholderstart#;#placeholderend#

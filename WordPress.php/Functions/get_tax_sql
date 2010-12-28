@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_tax_sql#selend#(#placeholderstart#string tax_query#placeholderend#, #placeholderstart#string primary_table#placeholderend#, #placeholderstart#int primary_id_column#placeholderend#)#placeholderstart#;#placeholderend#

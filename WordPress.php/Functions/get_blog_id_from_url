@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_blog_id_from_url#selend#(#placeholderstart#string domain#placeholderend#, #placeholderstart#string path#placeholderend#)#placeholderstart#;#placeholderend#

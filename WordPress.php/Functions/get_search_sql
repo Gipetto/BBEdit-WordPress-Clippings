@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_search_sql#selend#(#placeholderstart#string string#placeholderend#, #placeholderstart#string cols#placeholderend#, #placeholderstart#bool wild#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#add_settings_error#selend#(#placeholderstart#string setting#placeholderend#, #placeholderstart#string code#placeholderend#, #placeholderstart#string message#placeholderend#, #placeholderstart#string type#placeholderend#)#placeholderstart#;#placeholderend#

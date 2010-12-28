@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_most_recent_post_of_user#selend#(#placeholderstart#int user_id#placeholderend#)#placeholderstart#;#placeholderend#

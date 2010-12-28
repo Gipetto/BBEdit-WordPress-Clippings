@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_blog_permalink#selend#(#placeholderstart#int _blog_id#placeholderend#, #placeholderstart#int post_id#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,6 +1,2 @@
 #indent#
-<<<<<<< HEAD
 add_filter('#selstart#widget_tag_cloud_args#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#
-=======
-add_filter('#selstart#widget_tag_cloud_args#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#
->>>>>>> 384fbf710a08fbea35a9c389226045e2bc1beb15

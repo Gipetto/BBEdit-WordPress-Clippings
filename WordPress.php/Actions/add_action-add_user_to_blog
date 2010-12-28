@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#add_user_to_blog#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

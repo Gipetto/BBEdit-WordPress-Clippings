@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#update_{$meta_type}_metadata#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 4)#placeholderstart#;#placeholderend#

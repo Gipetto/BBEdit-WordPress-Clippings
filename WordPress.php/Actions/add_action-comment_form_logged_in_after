@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#comment_form_logged_in_after#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#switch_to_blog#selend#(#placeholderstart#string new_blog#placeholderend#, #placeholderstart#bool validate#placeholderend#)#placeholderstart#;#placeholderend#

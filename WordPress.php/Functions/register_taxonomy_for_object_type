@@ -1,0 +1,2 @@
+#indent#
+#selstart#register_taxonomy_for_object_type#selend#(#placeholderstart#string taxonomy#placeholderend#, #placeholderstart#string object_type#placeholderend#)#placeholderstart#;#placeholderend#

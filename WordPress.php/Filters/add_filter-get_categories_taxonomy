@@ -1,6 +1,2 @@
 #indent#
-<<<<<<< HEAD
 add_filter('#selstart#get_categories_taxonomy#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#
-=======
-add_filter('#selstart#get_categories_taxonomy#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#
->>>>>>> 384fbf710a08fbea35a9c389226045e2bc1beb15

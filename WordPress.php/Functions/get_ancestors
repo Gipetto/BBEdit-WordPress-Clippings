@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_ancestors#selend#(#placeholderstart#int object_id#placeholderend#, #placeholderstart#string object_type#placeholderend#)#placeholderstart#;#placeholderend#
