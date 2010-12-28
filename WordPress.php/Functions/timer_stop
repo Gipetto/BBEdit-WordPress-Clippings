@@ -1,2 +1,2 @@
 #indent#
-#selstart#timer_stop#selend#(#placeholderstart#int display#placeholderend#, #placeholderstart#int precision#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#timer_stop#selend#()#placeholderstart#;#placeholderend#

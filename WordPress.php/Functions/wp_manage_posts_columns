@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_manage_posts_columns#selend#()#placeholderstart#;#placeholderend#
+#selstart#wp_manage_posts_columns#selend#(#placeholderstart#string screen#placeholderend#)#placeholderstart#;#placeholderend#

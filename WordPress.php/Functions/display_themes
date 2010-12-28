@@ -1,2 +1,2 @@
 #indent#
-#selstart#display_themes#selend#(#placeholderstart#string themes#placeholderend#, #placeholderstart#int page#placeholderend#, #placeholderstart#int totalpages#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#display_themes#selend#()#placeholderstart#;#placeholderend#

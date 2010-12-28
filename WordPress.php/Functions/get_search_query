@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_search_query#selend#()#placeholderstart#;#placeholderend#
+#selstart#get_search_query#selend#(#placeholderstart#bool escaped#placeholderend#)#placeholderstart#;#placeholderend#

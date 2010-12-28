@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_comments_link#selend#()#placeholderstart#;#placeholderend#
+#selstart#get_comments_link#selend#(#placeholderstart#int post_id#placeholderend#)#placeholderstart#;#placeholderend#

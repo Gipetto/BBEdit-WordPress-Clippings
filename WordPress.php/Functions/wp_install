@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_install#selend#(#placeholderstart#string blog_title#placeholderend#, #placeholderstart#string user_name#placeholderend#, #placeholderstart#string user_email#placeholderend#, #placeholderstart#string public#placeholderend#, #placeholderstart#string deprecated#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_install#selend#(#placeholderstart#string blog_title#placeholderend#, #placeholderstart#string user_name#placeholderend#, #placeholderstart#string user_email#placeholderend#, #placeholderstart#string public#placeholderend#, #placeholderstart#string deprecated#placeholderend#, #placeholderstart#string user_password#placeholderend#)#placeholderstart#;#placeholderend#

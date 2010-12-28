@@ -1,2 +1,2 @@
 #indent#
-#selstart#is_feed#selend#()#placeholderstart#;#placeholderend#
+#selstart#is_feed#selend#(#placeholderstart#string feeds#placeholderend#)#placeholderstart#;#placeholderend#

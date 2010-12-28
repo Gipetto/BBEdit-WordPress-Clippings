@@ -1,2 +1,2 @@
 #indent#
-#selstart#delete_site_option#selend#(#placeholderstart#string key#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#delete_site_option#selend#(#placeholderstart#string option#placeholderend#)#placeholderstart#;#placeholderend#

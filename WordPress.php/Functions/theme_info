@@ -1,2 +1,2 @@
 #indent#
-#selstart#theme_info#selend#()#placeholderstart#;#placeholderend#
+#selstart#theme_info#selend#(#placeholderstart#string theme#placeholderend#)#placeholderstart#;#placeholderend#

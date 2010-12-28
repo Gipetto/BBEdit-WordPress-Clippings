@@ -1,2 +1,2 @@
 #indent#
-#selstart#admin_url#selend#(#placeholderstart#string path#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#admin_url#selend#(#placeholderstart#string path#placeholderend#, #placeholderstart#string scheme#placeholderend#)#placeholderstart#;#placeholderend#

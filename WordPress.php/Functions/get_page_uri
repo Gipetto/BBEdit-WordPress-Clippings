@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_page_uri#selend#(#placeholderstart#int page_id#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_page_uri#selend#(#placeholderstart#string page#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#media_handle_upload#selend#(#placeholderstart#int file_id#placeholderend#, #placeholderstart#int post_id#placeholderend#, #placeholderstart#string post_data#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#media_handle_upload#selend#(#placeholderstart#int file_id#placeholderend#, #placeholderstart#int post_id#placeholderend#, #placeholderstart#string post_data#placeholderend#, #placeholderstart#string overrides#placeholderend#)#placeholderstart#;#placeholderend#

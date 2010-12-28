@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_search_form#selend#()#placeholderstart#;#placeholderend#
+#selstart#get_search_form#selend#(#placeholderstart#bool echo#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_category_rss_link#selend#(#placeholderstart#bool echo#placeholderend#, #placeholderstart#int cat_ID#placeholderend#, #placeholderstart#string deprecated#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_category_rss_link#selend#(#placeholderstart#bool echo#placeholderend#, #placeholderstart#int cat_ID#placeholderend#)#placeholderstart#;#placeholderend#

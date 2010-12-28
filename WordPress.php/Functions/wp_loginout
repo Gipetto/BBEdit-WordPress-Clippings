@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_loginout#selend#(#placeholderstart#string redirect#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_loginout#selend#(#placeholderstart#string redirect#placeholderend#, #placeholderstart#bool echo#placeholderend#)#placeholderstart#;#placeholderend#

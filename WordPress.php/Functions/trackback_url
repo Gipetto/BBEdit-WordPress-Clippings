@@ -1,2 +1,2 @@
 #indent#
-#selstart#trackback_url#selend#(#placeholderstart#bool deprecated#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#trackback_url#selend#(#placeholderstart#bool deprecated_echo#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#json_decode#selend#(#placeholderstart#string string#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#json_decode#selend#(#placeholderstart#string string#placeholderend#, #placeholderstart#bool assoc_array#placeholderend#)#placeholderstart#;#placeholderend#

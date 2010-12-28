@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_calendar#selend#(#placeholderstart#bool initial#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_calendar#selend#(#placeholderstart#bool initial#placeholderend#, #placeholderstart#bool echo#placeholderend#)#placeholderstart#;#placeholderend#

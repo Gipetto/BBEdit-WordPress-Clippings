@@ -1,2 +1,2 @@
 #indent#
-#selstart#WP_User#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string name#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#WP_User#selend#(#placeholderstart#int id#placeholderend#, #placeholderstart#string name#placeholderend#, #placeholderstart#int blog_id#placeholderend#)#placeholderstart#;#placeholderend#

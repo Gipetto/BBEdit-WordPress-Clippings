@@ -1,2 +1,2 @@
 #indent#
-#selstart#toggle_text#selend#(#placeholderstart#string force#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#toggle_text#selend#(#placeholderstart#string s#placeholderend#)#placeholderstart#;#placeholderend#

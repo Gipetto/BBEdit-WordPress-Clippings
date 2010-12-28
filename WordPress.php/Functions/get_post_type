@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_post_type#selend#(#placeholderstart#bool post#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_post_type#selend#(#placeholderstart#bool the_post#placeholderend#)#placeholderstart#;#placeholderend#

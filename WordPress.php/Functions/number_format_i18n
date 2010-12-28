@@ -1,2 +1,2 @@
 #indent#
-#selstart#number_format_i18n#selend#(#placeholderstart#string number#placeholderend#, #placeholderstart#string decimals#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#number_format_i18n#selend#(#placeholderstart#string number#placeholderend#, #placeholderstart#int decimals#placeholderend#)#placeholderstart#;#placeholderend#

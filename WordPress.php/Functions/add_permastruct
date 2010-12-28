@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_permastruct#selend#(#placeholderstart#string name#placeholderend#, #placeholderstart#string struct#placeholderend#, #placeholderstart#bool with_front#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#add_permastruct#selend#(#placeholderstart#string name#placeholderend#, #placeholderstart#string struct#placeholderend#, #placeholderstart#bool with_front#placeholderend#, #placeholderstart#string ep_mask#placeholderend#)#placeholderstart#;#placeholderend#

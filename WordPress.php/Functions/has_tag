@@ -1,2 +1,2 @@
 #indent#
-#selstart#has_tag#selend#(#placeholderstart#string tag#placeholderend#, #placeholderstart#string _post#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#has_tag#selend#(#placeholderstart#string tag#placeholderend#, #placeholderstart#object post#placeholderend#)#placeholderstart#;#placeholderend#

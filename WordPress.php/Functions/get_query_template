@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_query_template#selend#(#placeholderstart#string type#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_query_template#selend#(#placeholderstart#string type#placeholderend#, #placeholderstart#string templates#placeholderend#)#placeholderstart#;#placeholderend#

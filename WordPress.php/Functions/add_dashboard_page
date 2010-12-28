@@ -1,2 +1,2 @@
 #indent#
-#selstart#add_dashboard_page#selend#(#placeholderstart#string page_title#placeholderend#, #placeholderstart#string menu_title#placeholderend#, #placeholderstart#string access_level#placeholderend#, #placeholderstart#string file#placeholderend#, #placeholderstart#string function#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#add_dashboard_page#selend#(#placeholderstart#string page_title#placeholderend#, #placeholderstart#string menu_title#placeholderend#, #placeholderstart#string capability#placeholderend#, #placeholderstart#string menu_slug#placeholderend#, #placeholderstart#string function#placeholderend#)#placeholderstart#;#placeholderend#

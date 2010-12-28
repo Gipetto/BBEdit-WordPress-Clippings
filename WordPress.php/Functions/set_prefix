@@ -1,2 +1,2 @@
 #indent#
-#selstart#set_prefix#selend#(#placeholderstart#string prefix#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#set_prefix#selend#(#placeholderstart#string prefix#placeholderend#, #placeholderstart#bool set_table_names#placeholderend#)#placeholderstart#;#placeholderend#
