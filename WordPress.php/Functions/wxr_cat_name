@@ -1,2 +1,2 @@
 #indent#
-#selstart#wxr_cat_name#selend#(#placeholderstart#string c#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wxr_cat_name#selend#(#placeholderstart#object category#placeholderend#)#placeholderstart#;#placeholderend#

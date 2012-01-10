@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_clear_scheduled_hook#selend#(#placeholderstart#string hook#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_clear_scheduled_hook#selend#(#placeholderstart#string hook#placeholderend#, #placeholderstart#array args#placeholderend#)#placeholderstart#;#placeholderend#

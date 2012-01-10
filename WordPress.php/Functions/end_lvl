@@ -1,2 +1,2 @@
 #indent#
-#selstart#end_lvl#selend#(#placeholderstart#string output#placeholderend#, #placeholderstart#string depth#placeholderend#, #placeholderstart#array args#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#end_lvl#selend#(#placeholderstart#string output#placeholderend#, #placeholderstart#string depth#placeholderend#)#placeholderstart#;#placeholderend#

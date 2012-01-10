@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_comment_type#selend#()#placeholderstart#;#placeholderend#
+#selstart#get_comment_type#selend#(#placeholderstart#int comment_ID#placeholderend#)#placeholderstart#;#placeholderend#

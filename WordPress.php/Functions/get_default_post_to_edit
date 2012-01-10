@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_default_post_to_edit#selend#()#placeholderstart#;#placeholderend#
+#selstart#get_default_post_to_edit#selend#(#placeholderstart#string post_type#placeholderend#, #placeholderstart#bool create_in_db#placeholderend#)#placeholderstart#;#placeholderend#

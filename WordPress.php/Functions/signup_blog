@@ -1,0 +1,2 @@
+#indent#
+#selstart#signup_blog#selend#(#placeholderstart#string user_name#placeholderend#, #placeholderstart#string user_email#placeholderend#, #placeholderstart#string blogname#placeholderend#, #placeholderstart#string blog_title#placeholderend#, #placeholderstart#string errors#placeholderend#)#placeholderstart#;#placeholderend#

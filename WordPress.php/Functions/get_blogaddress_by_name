@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_blogaddress_by_name#selend#(#placeholderstart#string blogname#placeholderend#)#placeholderstart#;#placeholderend#

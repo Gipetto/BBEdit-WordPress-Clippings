@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_the_taxonomies#selend#(#placeholderstart#object post#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_the_taxonomies#selend#(#placeholderstart#object post#placeholderend#, #placeholderstart#array args#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#selstart#update_blog_status#selend#(#placeholderstart#int blog_id#placeholderend#, #placeholderstart#string pref#placeholderend#, #placeholderstart#string value#placeholderend#, #placeholderstart#string deprecated#placeholderend#)#placeholderstart#;#placeholderend#

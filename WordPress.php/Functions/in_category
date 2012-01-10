@@ -1,2 +1,2 @@
 #indent#
-#selstart#in_category#selend#(#placeholderstart#object category#placeholderend#, #placeholderstart#string _post#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#in_category#selend#(#placeholderstart#object category#placeholderend#, #placeholderstart#object post#placeholderend#)#placeholderstart#;#placeholderend#

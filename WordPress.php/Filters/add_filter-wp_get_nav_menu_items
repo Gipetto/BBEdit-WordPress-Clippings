@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#wp_get_nav_menu_items#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 3)#placeholderstart#;#placeholderend#

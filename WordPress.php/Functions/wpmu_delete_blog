@@ -1,0 +1,2 @@
+#indent#
+#selstart#wpmu_delete_blog#selend#(#placeholderstart#int blog_id#placeholderend#, #placeholderstart#bool drop#placeholderend#)#placeholderstart#;#placeholderend#

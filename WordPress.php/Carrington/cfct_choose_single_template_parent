@@ -1,2 +1,2 @@
 #indent#
-#selstart#cfct_choose_single_template_parent#selend#(#placeholderstart#string dir#placeholderend#, #placeholderstart#string files#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#cfct_choose_single_template_parent#selend#(#placeholderstart#string dir#placeholderend#, #placeholderstart#string files#placeholderend#, #placeholderstart#string filter#placeholderend#)#placeholderstart#;#placeholderend#

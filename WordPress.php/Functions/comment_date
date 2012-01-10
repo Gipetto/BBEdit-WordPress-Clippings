@@ -1,2 +1,2 @@
 #indent#
-#selstart#comment_date#selend#(#placeholderstart#string d#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#comment_date#selend#(#placeholderstart#string d#placeholderend#, #placeholderstart#int comment_ID#placeholderend#)#placeholderstart#;#placeholderend#

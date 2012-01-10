@@ -1,2 +1,2 @@
 #indent#
-#selstart#set_post_thumbnail_size#selend#(#placeholderstart#int width#placeholderend#, #placeholderstart#int height#placeholderend#, #placeholderstart#string crop#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#set_post_thumbnail_size#selend#(#placeholderstart#int width#placeholderend#, #placeholderstart#int height#placeholderend#, #placeholderstart#bool crop#placeholderend#)#placeholderstart#;#placeholderend#

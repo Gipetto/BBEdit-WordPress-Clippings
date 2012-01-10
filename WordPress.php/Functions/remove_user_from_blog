@@ -1,0 +1,2 @@
+#indent#
+#selstart#remove_user_from_blog#selend#(#placeholderstart#int user_id#placeholderend#, #placeholderstart#int blog_id#placeholderend#, #placeholderstart#string reassign#placeholderend#)#placeholderstart#;#placeholderend#

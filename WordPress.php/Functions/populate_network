@@ -1,0 +1,2 @@
+#indent#
+#selstart#populate_network#selend#(#placeholderstart#int network_id#placeholderend#, #placeholderstart#string domain#placeholderend#, #placeholderstart#string email#placeholderend#, #placeholderstart#string site_name#placeholderend#, #placeholderstart#string path#placeholderend#, #placeholderstart#bool subdomain_install#placeholderend#)#placeholderstart#;#placeholderend#

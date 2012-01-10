@@ -1,6 +1,6 @@
 # BBEdit WordPress Clippings
 
-**For WordPress Version:** 2.9
+**For WordPress Version:** 3.1
 
 This is a Clipping bundle for BBEdit 9+ to help make working with WordPress (hopefully) a lot easier. These clippings will be maintained for the current version of WordPress. No conscious effort will be maintained to provide backward compatibility.
 

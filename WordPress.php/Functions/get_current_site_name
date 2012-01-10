@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_current_site_name#selend#(#placeholderstart#string current_site#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#is_singular#selend#()#placeholderstart#;#placeholderend#
+#selstart#is_singular#selend#(#placeholderstart#string post_types#placeholderend#)#placeholderstart#;#placeholderend#

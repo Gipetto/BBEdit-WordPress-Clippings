@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_blog_details#selend#(#placeholderstart#string fields#placeholderend#, #placeholderstart#bool get_all#placeholderend#)#placeholderstart#;#placeholderend#

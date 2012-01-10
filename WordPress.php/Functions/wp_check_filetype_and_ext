@@ -1,0 +1,2 @@
+#indent#
+#selstart#wp_check_filetype_and_ext#selend#(#placeholderstart#string file#placeholderend#, #placeholderstart#string filename#placeholderend#, #placeholderstart#array mimes#placeholderend#)#placeholderstart#;#placeholderend#

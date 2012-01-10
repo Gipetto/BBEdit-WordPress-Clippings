@@ -1,2 +1,2 @@
 #indent#
-#selstart#update_post_caches#selend#(#placeholderstart#string posts#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#update_post_caches#selend#(#placeholderstart#string posts#placeholderend#, #placeholderstart#string post_type#placeholderend#, #placeholderstart#bool update_term_cache#placeholderend#, #placeholderstart#bool update_meta_cache#placeholderend#)#placeholderstart#;#placeholderend#

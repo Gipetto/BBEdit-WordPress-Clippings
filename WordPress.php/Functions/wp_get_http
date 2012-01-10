@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_get_http#selend#(#placeholderstart#string url#placeholderend#, #placeholderstart#bool file_path#placeholderend#, #placeholderstart#bool deprecated#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_get_http#selend#(#placeholderstart#string url#placeholderend#, #placeholderstart#bool file_path#placeholderend#, #placeholderstart#int red#placeholderend#)#placeholderstart#;#placeholderend#

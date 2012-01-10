@@ -1,0 +1,2 @@
+#indent#
+#selstart#current_user_can_for_blog#selend#(#placeholderstart#int blog_id#placeholderend#, #placeholderstart#string capability#placeholderend#)#placeholderstart#;#placeholderend#

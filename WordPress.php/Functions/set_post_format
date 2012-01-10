@@ -1,0 +1,2 @@
+#indent#
+#selstart#set_post_format#selend#(#placeholderstart#object post#placeholderend#, #placeholderstart#string format#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+add_filter('#selstart#signup_create_blog_meta#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

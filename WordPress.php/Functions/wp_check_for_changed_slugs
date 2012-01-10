@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_check_for_changed_slugs#selend#(#placeholderstart#int post_id#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_check_for_changed_slugs#selend#(#placeholderstart#int post_id#placeholderend#, #placeholderstart#object post#placeholderend#, #placeholderstart#string post_before#placeholderend#)#placeholderstart#;#placeholderend#

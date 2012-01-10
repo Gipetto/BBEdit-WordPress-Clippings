@@ -1,2 +1,2 @@
 #indent#
-#selstart#activate_plugins#selend#(#placeholderstart#string plugins#placeholderend#, #placeholderstart#string redirect#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#activate_plugins#selend#(#placeholderstart#string plugins#placeholderend#, #placeholderstart#string redirect#placeholderend#, #placeholderstart#bool network_wide#placeholderend#, #placeholderstart#bool silent#placeholderend#)#placeholderstart#;#placeholderend#

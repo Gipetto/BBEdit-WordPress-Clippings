@@ -1,2 +1,2 @@
 #indent#
-#selstart#discover_pingback_server_uri#selend#(#placeholderstart#string url#placeholderend#, #placeholderstart#int deprecated#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#discover_pingback_server_uri#selend#(#placeholderstart#string url#placeholderend#, #placeholderstart#string deprecated#placeholderend#)#placeholderstart#;#placeholderend#

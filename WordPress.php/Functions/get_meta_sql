@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_meta_sql#selend#(#placeholderstart#string meta_query#placeholderend#, #placeholderstart#string meta_type#placeholderend#, #placeholderstart#string primary_table#placeholderend#, #placeholderstart#int primary_id_column#placeholderend#, #placeholderstart#string context#placeholderend#)#placeholderstart#;#placeholderend#

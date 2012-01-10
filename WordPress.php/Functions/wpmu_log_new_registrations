@@ -1,0 +1,2 @@
+#indent#
+#selstart#wpmu_log_new_registrations#selend#(#placeholderstart#int blog_id#placeholderend#, #placeholderstart#int user_id#placeholderend#)#placeholderstart#;#placeholderend#

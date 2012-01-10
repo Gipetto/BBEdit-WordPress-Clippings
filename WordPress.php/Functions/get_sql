@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_sql#selend#(#placeholderstart#string primary_table#placeholderend#, #placeholderstart#int primary_id_column#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_login_url#selend#(#placeholderstart#string redirect#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_login_url#selend#(#placeholderstart#string redirect#placeholderend#, #placeholderstart#bool force_reauth#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_site_option#selend#(#placeholderstart#string key#placeholderend#, #placeholderstart#bool default#placeholderend#, #placeholderstart#bool use_cache#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_site_option#selend#(#placeholderstart#string option#placeholderend#, #placeholderstart#bool default#placeholderend#, #placeholderstart#bool use_cache#placeholderend#)#placeholderstart#;#placeholderend#

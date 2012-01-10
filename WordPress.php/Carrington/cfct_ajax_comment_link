@@ -1,2 +1,2 @@
 #indent#
-#selstart#cfct_ajax_comment_link#selend#()#placeholderstart#;#placeholderend#
+#selstart#cfct_ajax_comment_link#selend#(#placeholderstart#string attrs#placeholderend#)#placeholderstart#;#placeholderend#

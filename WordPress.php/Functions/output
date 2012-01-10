@@ -1,2 +1,2 @@
 #indent#
-#selstart#output#selend#(#placeholderstart#string xml#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#output#selend#(#placeholderstart#string xml#placeholderend#, #placeholderstart#string ctype#placeholderend#)#placeholderstart#;#placeholderend#

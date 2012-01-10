@@ -1,0 +1,2 @@
+#indent#
+#selstart#wpmu_validate_blog_signup#selend#(#placeholderstart#string blogname#placeholderend#, #placeholderstart#string blog_title#placeholderend#, #placeholderstart#string user#placeholderend#)#placeholderstart#;#placeholderend#

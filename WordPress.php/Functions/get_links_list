@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_links_list#selend#(#placeholderstart#string order#placeholderend#, #placeholderstart#string deprecated#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_links_list#selend#(#placeholderstart#string order#placeholderend#)#placeholderstart#;#placeholderend#

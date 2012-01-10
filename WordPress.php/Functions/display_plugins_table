@@ -1,2 +1,2 @@
 #indent#
-#selstart#display_plugins_table#selend#(#placeholderstart#string plugins#placeholderend#, #placeholderstart#int page#placeholderend#, #placeholderstart#int totalpages#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#display_plugins_table#selend#()#placeholderstart#;#placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#wpmuadminresult#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

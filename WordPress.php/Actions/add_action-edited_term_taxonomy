@@ -1,2 +1,2 @@
 #indent#
-add_action('#selstart#edited_term_taxonomy#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#
+add_action('#selstart#edited_term_taxonomy#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 2)#placeholderstart#;#placeholderend#

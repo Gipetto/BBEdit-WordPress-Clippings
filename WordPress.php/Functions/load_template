@@ -1,2 +1,2 @@
 #indent#
-#selstart#load_template#selend#(#placeholderstart#string _template_file#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#load_template#selend#(#placeholderstart#string _template_file#placeholderend#, #placeholderstart#bool require_once#placeholderend#)#placeholderstart#;#placeholderend#

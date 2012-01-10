@@ -1,2 +1,2 @@
 #indent#
-#selstart#get_page_by_title#selend#(#placeholderstart#string page_title#placeholderend#, #placeholderstart#string output#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#get_page_by_title#selend#(#placeholderstart#string page_title#placeholderend#, #placeholderstart#string output#placeholderend#, #placeholderstart#string post_type#placeholderend#)#placeholderstart#;#placeholderend#

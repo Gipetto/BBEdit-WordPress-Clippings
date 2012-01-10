@@ -1,2 +1,0 @@
-#indent#
-#selstart#add_action#selend#('sanitize_comment_cookies','#placeholderstart#string func_to_call#placeholderend#',#placeholderstart#10#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,2 +1,2 @@
 #indent#
-#selstart#wp_get_recent_posts#selend#(#placeholderstart#int num#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#wp_get_recent_posts#selend#(#placeholderstart#array args#placeholderend#, #placeholderstart#string output#placeholderend#)#placeholderstart#;#placeholderend#

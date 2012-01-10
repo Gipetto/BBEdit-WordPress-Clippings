@@ -1,2 +1,2 @@
 #indent#
-#selstart#download_url#selend#(#placeholderstart#string url#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#download_url#selend#(#placeholderstart#string url#placeholderend#, #placeholderstart#int timeout#placeholderend#)#placeholderstart#;#placeholderend#

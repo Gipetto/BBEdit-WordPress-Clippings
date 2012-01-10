@@ -1,2 +1,2 @@
 #indent#
-#selstart#getRequestParam#selend#(#placeholderstart#string name#placeholderend#, #placeholderstart#bool default_value#placeholderend#, #placeholderstart#bool sanitize#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#getRequestParam#selend#(#placeholderstart#string name#placeholderend#, #placeholderstart#bool default_value#placeholderend#)#placeholderstart#;#placeholderend#

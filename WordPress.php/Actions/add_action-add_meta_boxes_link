@@ -1,0 +1,2 @@
+#indent#
+add_action('#selstart#add_meta_boxes_link#selend#', '#placeholderstart#string func_to_call#placeholderend#', #placeholderstart#10#placeholderend#, 1)#placeholderstart#;#placeholderend#

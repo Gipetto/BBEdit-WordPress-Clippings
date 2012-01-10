@@ -1,2 +1,2 @@
 #indent#
-#selstart#clean_term_cache#selend#(#placeholderstart#string ids#placeholderend#, #placeholderstart#string taxonomy#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#clean_term_cache#selend#(#placeholderstart#string ids#placeholderend#, #placeholderstart#string taxonomy#placeholderend#, #placeholderstart#bool clean_taxonomy#placeholderend#)#placeholderstart#;#placeholderend#

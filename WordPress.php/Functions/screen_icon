@@ -1,2 +1,2 @@
 #indent#
-#selstart#screen_icon#selend#(#placeholderstart#string name#placeholderend#)#placeholderstart#;#placeholderend#
+#selstart#screen_icon#selend#(#placeholderstart#string screen#placeholderend#)#placeholderstart#;#placeholderend#

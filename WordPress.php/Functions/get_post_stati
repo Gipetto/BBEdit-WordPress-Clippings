@@ -1,0 +1,2 @@
+#indent#
+#selstart#get_post_stati#selend#(#placeholderstart#array args#placeholderend#, #placeholderstart#string output#placeholderend#, #placeholderstart#string operator#placeholderend#)#placeholderstart#;#placeholderend#
