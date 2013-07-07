@@ -1,5 +1,11 @@
 # BBEdit WordPress Clippings
 
+---
+
+**This project is officially dead.** If you haven't already surmised that. If you're interested in taking it over let me know. I've since moved on to PHPStorm for the majority of my development and just don't get anything back out of the time spent maintaining this.
+
+---
+
 **For WordPress Version:** 3.1
 
 This is a Clipping bundle for BBEdit 9+ to help make working with WordPress (hopefully) a lot easier. These clippings will be maintained for the current version of WordPress. No conscious effort will be maintained to provide backward compatibility.
